@@ -1,0 +1,4 @@
+User-agent: Googlebot-Image
+Disallow: /images/N123.png
+Disallow: /images/S123.png
+
