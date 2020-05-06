@@ -1,10 +1,10 @@
 <?php
 	$owner_email='answebsolution@gmail.com';
 	//SMTP server settings	
-	$host = 'mail.answebsolution.ml';
-    $port = '465';//"465";
-    $username = 'mohit@answebsolution.ml';
-    $password = 'moradabad123';
+	$host = 'smtp.gmail.com';
+    $port = '587';//"587";
+    $username = '01mansiarora@gmail.com';
+    $password = 'moradabad';
 
     $subject='A message from your site visitor ';
     $user_email='';    
